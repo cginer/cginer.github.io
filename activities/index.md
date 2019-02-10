@@ -17,7 +17,7 @@ May 2017 - [V Bioinformatics Student Symposium](http://www.rsg-spain.iscbsc.org/
     _Barcelona, Spain_
 
 Oct 2016 - [Young Researcher Symposium](http://xxisgpe.uab.cat/base/base3.asp?sitio=XXISGPE&anar=student)
-: Student session within the [XXI Seminario de Genética de Poblaciones y Evolución](http://xxisgpe.uab.cat)  
+: Student session within the [XXI Seminario de Genética de Poblaciones y Evolución](http://xxisgpe.uab.cat).  
     _Sitges, Spain_
 
 May 2016 - [IV Bioinformatics Student Symposium](http://jbi2016.webs.upv.es/student-symposium/) [#JBI2016SS](https://twitter.com/search?l=en&q=%23JBI2016SS%20since%3A2016-01-01%20until%3A2016-06-01)
