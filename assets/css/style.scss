@@ -23,6 +23,10 @@ strong a:hover {
   font-weight: bold;
 }
 
+dt a:hover {
+  font-weight: bold;
+}
+
 /*nav, similar to downloads, will need to update to something different to use more than 3 pages...*/
 ul.nav {
   list-style:none;
@@ -85,3 +89,4 @@ footer ul li {
   margin-right: 20px;
   font-size: 20px;
 }
+
