@@ -17,11 +17,14 @@ a {
 
 a:hover, a:focus {
   color: #336636;
-  font-weight: bold;
-}
-
-/*remove bold when hover in footer to avoid text movement*/
-footer a:hover {
   font-weight: normal;
 }
 
+/*make bold only when on a title*/
+h1 a:hover {
+  font-weight: bold;
+}
+
+strong a:hover {
+  font-weight: bold;
+}
