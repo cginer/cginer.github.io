@@ -2,12 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-footer ul li {
-    list-style: none;
-    display: inline;
-    margin-right: 20px;
-    font-size: 20px;
-}
 
 /*Link colours*/
 a {
@@ -30,7 +24,6 @@ strong a:hover {
 }
 
 /*nav, similar to downloads, will need to update to something different to use more than 3 pages...*/
-
 ul.nav {
   list-style:none;
   height:24px;
@@ -79,4 +72,16 @@ ul.nav {
 .nav li + li + li {
   border-right:none;
   width:89px;
+}
+
+
+/*Contact list for social media*/
+footer {
+  background-color: #ffffff;
+}
+footer ul li {
+  list-style: none;
+  display: inline;
+  margin-right: 20px;
+  font-size: 20px;
 }
