@@ -14,7 +14,7 @@ _12h: data visualisation in R with ggplot2, htmlwidgets and shiny._
 
 2017-2018 Genome visualisation
 : [MSc Bioinformatics](mscbioinformatics.uab.cat), [UAB](uab.cat).  
-_2h: Introduction to the grammar of graphics in R. [exercises](https://github.com/cginer/ggplot2-exercises)_
+_2h: Introduction to the grammar of graphics in R. [Link to the exercises](https://github.com/cginer/ggplot2-exercises)._
 
 2013-2018 Genomics, Proteomics and Interactomics
 : [Bachelor's degree in Genetics](https://www.uab.cat/web/estudiar/ehea-degrees/general-information-1216708259085.html?param1=1231491110582), [UAB](uab.cat).  
