@@ -8,7 +8,20 @@ footer ul li {
     margin-right: 20px;
     font-size: 20px;
 }
+
+/*Link colours*/
+a {
+  color:#478e4b;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color: #336636;
+  font-weight: bold;
+}
+
+/*remove bold when hover in footer to avoid text movement*/
 footer a:hover {
-  color:#069;
   font-weight: normal;
 }
+
