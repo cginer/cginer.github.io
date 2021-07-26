@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@master
 title: Carla Giner Delgado, PhD
 description: "Population geneticist interested in structural variation, natural selection, complex traits, recombination and data visualisation (among others)."
 logo: assets/img/CarlaGinerDelgado.jpeg
