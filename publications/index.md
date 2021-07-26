@@ -8,14 +8,14 @@ Publications
 
 See an updated list with citations in [google scholar](https://scholar.google.es/citations?user=MNUHoYMAAAAJ&hl=en).  
 
-Weale ME, Riveros-Mckay F, Selzam S, Seth P, Moore R, Tarran WA, Gradovich E, __Giner-Delgado C__, Palmer D, Wells D, Saffari A, Sivley RM, Lachapelle AS, Wand H, Clarke SL, Knowles JW, O'Sullivan JW, Ashley EA, McVean G, Plagnol V, Donnelly P. (Validation of an Integrated Risk Tool, Including Polygenic Risk Score, for Atherosclerotic Cardiovascular Disease in Multiple Ethnicities and Ancestries)[https://www.sciencedirect.com/science/article/pii/S0002914921002071]. _The American Journal of Cardiology_. 2021 June; 148:157-164.
+Weale ME, Riveros-Mckay F, Selzam S, Seth P, Moore R, Tarran WA, Gradovich E, __Giner-Delgado C__, Palmer D, Wells D, Saffari A, Sivley RM, Lachapelle AS, Wand H, Clarke SL, Knowles JW, O'Sullivan JW, Ashley EA, McVean G, Plagnol V, Donnelly P. [Validation of an Integrated Risk Tool, Including Polygenic Risk Score, for Atherosclerotic Cardiovascular Disease in Multiple Ethnicities and Ancestries](https://www.sciencedirect.com/science/article/pii/S0002914921002071). _The American Journal of Cardiology_. 2021 June; 148:157-164.
  
 Puig M, Lerga-Jaso J, __Giner-Delgado C__, Pacheco S, Izquierdo D, Delprat A, Gayà-Vidal M, Regan JF, Karlin-Neumann G, Cáceres M [Determining the impact of uncharacterized inversions in the human genome by droplet digital PCR](https://genome.cshlp.org/content/30/5/724.short). _Genome research_. 2020 May; 30(5):724-735.
 
 __Giner-Delgado C__^, Villatoro S^, Lerga-Jaso J^, Gayà-Vidal M, Oliva M, Castellano D, Pantano L, Bitarello B, Izquierdo D, Noguera I, Olalde I, Delprat A, Blancher A, Lalueza C, Esko T, O’Reilly P, Andrés A, Ferretti L, Puig M, Cáceres M. [Functional and evolutionary impact of polymorphic inversions in the human genome](https://www.nature.com/articles/s41467-019-12173-x). _Nature Communications_ . 2019 September; 10:4222.  
     ^Equal contribution
  
-Shome S, Parra RJ, Fatima N, Monzon AM, Cuypers B, Moosa Y, Da Rocha Coimbra N, Assis J, __Giner-Delgado C__, et al. (Global network of computational biology communities: ISCB's Regional Student Groups breaking barriers)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6720036/]. _F1000Research_. 2019; 8.
+Shome S, Parra RJ, Fatima N, Monzon AM, Cuypers B, Moosa Y, Da Rocha Coimbra N, Assis J, __Giner-Delgado C__, et al. [Global network of computational biology communities: ISCB's Regional Student Groups breaking barriers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6720036/). _F1000Research_. 2019; 8.
 
 __Giner-Delgado C__. [Large-scale evolutionary analysis of polymorphic inversions in the human genome](https://www.tdx.cat/handle/10803/459114). PhD Thesis, Universitat Autònoma de Barcelona. Director: Cáceres M. 2017 December.
 
